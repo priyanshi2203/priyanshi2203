@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshi Agrawal
-- 👀 I’m currently in 4th yr of pursuing my bachelor's in Computer Science .
-- 🌱 I’m interested in competitive coding and building mobile applications .
+- 👀 I’m currently working as a software engineer in New Relic .In the past i have worked in VMware as Member Of Technical Staff in the Tanzu division.
+- 🌱 I've working experience in golang, kubernetes.
 
 <!---
 priyanshi2203/priyanshi2203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
